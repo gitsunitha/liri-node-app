@@ -1,0 +1,8 @@
+# Spotify API keys
+
+SPOTIFY_ID=
+SPOTIFY_SECRET=
+
+DO_WHAT_IT_SAYS_FILE=doda.txt
+
+LOG_FILE=log.txt
