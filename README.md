@@ -2,7 +2,9 @@
 
 ### Overview
 
-LIRI will be a command line node app that takes in inputs ( a select set)and gives you back data.
+LIRI will be a command line node app that takes in inputs ( a select set)and gives you back data. Currently it will take movies, songs, bands and text files as inputs.
+
+**** For the TAs: The video capture is a zipped file in this repository
 
 ### User Guide
 
