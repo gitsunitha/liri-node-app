@@ -4,7 +4,9 @@
 
 LIRI will be a command line node app that takes in inputs ( a select set)and gives you back data.
 
-### Guide
+### User Guide
+
+## Installation and Setup
 
 1. Clone the repo and run npm install to get the required.
    `npm install`
@@ -26,7 +28,8 @@ LOG_FILE=log.txt
 
 3. Setup is now complete.
 
-4. To run use the following command:
+## How to use
+1. To run use the following command:
 `node lirinotes`
 
 * The User will be prompted to select one of the search options. 
@@ -36,9 +39,10 @@ LOG_FILE=log.txt
 * The search for the Song/Movie/Band is done and results are displayed
 * For the "Do what it says" option, the file should have only one command in the following format:
 	`<command> <search String>`
-  Neither can be blank. 
+  Neither can be blank. Values for commands are : Song, Movie, Band, DoWhatitSays
   Example:
   ```js
   Song, Natural
   ```
+  
   
